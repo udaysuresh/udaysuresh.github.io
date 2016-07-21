@@ -20,13 +20,6 @@ a {
 a:hover {
     text-decoration: underline;
 }
-a1 {
-    text-decoration: none;
-    color: #0d0d0d;
-}
-a1:hover {
-    text-decoration: underline;
-}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
