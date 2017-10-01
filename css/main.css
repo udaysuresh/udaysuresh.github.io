@@ -13,7 +13,7 @@ body {
   background: white }
   body a {
     text-decoration: none;
-    color: #111;
+    color: #009999;
     transition: all 0.2s ease; }
     body a:hover {
       color: #009999;
@@ -81,8 +81,11 @@ body {
     to   { opacity: 1; }
 }
 
-
-
+.linker {
+  align-items: right; }
+  .linker a {
+    color: #111;
+  }
 
 .container {
   width: 100vw;
@@ -100,6 +103,9 @@ body {
   background-color: white;
   height: 90px;
   box-sizing: border-box; }
+  .top a {
+    color: #111;
+  }
   .top div {
     flex: 0 1 auto; }
   .top .header {
@@ -118,6 +124,9 @@ body {
   width: auto;
   flex-wrap: wrap;
   justify-content: space-between; }
+  .portfolio-list a {
+    color: #111;
+  }
   .portfolio-list .portfolio-piece {
     margin-bottom: 60px;
     width: 100%;
