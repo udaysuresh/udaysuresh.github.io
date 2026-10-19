@@ -1,9 +1,0 @@
-1. In the GitHub repo that publishes udaysuresh.com, create a folder named: invite
-2. Copy EVERYTHING inside this package into that folder.
-3. Commit/push.
-4. Wait for GitHub Pages to publish.
-5. Open https://udaysuresh.com/invite/ on your phone.
-6. Tap the seal and confirm the invitation opens smoothly.
-7. Send https://udaysuresh.com/invite/ by text/email.
-
-The page has no RSVP step.
